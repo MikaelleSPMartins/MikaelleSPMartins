@@ -1,6 +1,7 @@
 ### Olá, sou a Mikaelle👋👋
 
 - 🔭 Atualmente estou atuando como Analista de Requisitos
+- Cursando ADS
 - 🌱 Estudando HTML,CSS e Javascript 
 
 Conhecimento em:
